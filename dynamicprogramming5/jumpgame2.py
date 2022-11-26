@@ -1,3 +1,5 @@
+#Time_Complexity: O(n)
+#Space_Complexity: O(1)
 class Solution:
     def jump(self, nums: List[int]) -> int:
         #assigning start as 0
